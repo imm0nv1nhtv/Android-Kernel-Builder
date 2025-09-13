@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "lineage-19.1",
+      "name": "j4primelte-lineage",
       "repo": "https://github.com/msm8917-dev/android_kernel_samsung_msm8917",
-      "branch": "samsung",
+      "branch": "lineage-19.1",
       "device": "j4primelte"
     },
     "withKernelSU": false,
