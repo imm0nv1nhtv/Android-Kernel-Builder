@@ -13,8 +13,8 @@
         "name": "gas"
       },
       {
-        "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone",
-        "branch": "12",
+        "repo": "https://github.com/kdrag0n/proton-clang",
+        "branch": "master",
         "name": "clang"
       }
     ],
@@ -24,7 +24,7 @@
       "CROSS_COMPILE_ARM32": "arm-linux-gnueabi-",
       "CROSS_COMPILE_COMPAT": "arm-linux-gnueabi-",
       "CLANG_TRIPLE": "aarch64-linux-gnu-",
-      "AR": "",
+      "AR": "ar",
       "CC": "clang"
     }
   }
